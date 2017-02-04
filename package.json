@@ -1,0 +1,28 @@
+{
+  "name": "produce-coffee-script",
+  "version": "0.1.0",
+  "description": "CoffeeScript language compiler rule for produce",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etabits/node-produce-coffee-script.git"
+  },
+  "keywords": [
+    "produce",
+    "coffee-script",
+    "coffee",
+    "transformer",
+    "produce-transformer",
+    "produce-plugin",
+    "produce-rule"
+  ],
+  "author": "Hasan Arous <arous.hasan@gmail.com> (http://www.etabits.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etabits/node-produce-coffee-script/issues"
+  },
+  "homepage": "https://github.com/etabits/node-produce-coffee-script#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.3"
+  }
+}
